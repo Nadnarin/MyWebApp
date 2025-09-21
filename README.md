@@ -2,7 +2,7 @@
 สำหรับการสร้างเว็บพอร์ตโฟลิโอ 3D Model มีขั้นตอนที่สำคัญดังนี้:
 
 ## Table of Contents
-- [Head](#head)
+- [ProjectSetup](#ProjectSetup)
 - [body](#body)
     - [InputFormSection](#InputFormSection)
     - [ResultsSection](#ResultsSection)
